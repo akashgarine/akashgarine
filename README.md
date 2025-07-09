@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://akash-garine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-suraj7.tech-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-akash-garine.vercel.app-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
   </a>
 </div>
 
