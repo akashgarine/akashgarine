@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suraj Thammi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash Garine</h1>
 
 <div align="center">
-  <a href="https://suraj7.tech" target="_blank">
+  <a href="https://akash-garine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-suraj7.tech-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
   </a>
 </div>
