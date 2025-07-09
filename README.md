@@ -1,18 +1,19 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash Garine</h1>
 
 <div align="center">
-  <a href="https://akash-garine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-akash-garine.vercel.app-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
+  <a href="https://akash-garine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-A.tech-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
   </a>
 </div>
 
 <h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/suraj719"><img src="https://img.shields.io/badge/HackerRank-suraj719-green?style=flat-square&logo=HackerRank" /></a>
-  <a href="https://www.linkedin.com/in/surajthammi/"><img src="https://img.shields.io/badge/LinkedIn-surajthammi-blue?style=flat-square&logo=LinkedIn" /></a>
-  <a href="https://leetcode.com/suraj719/"><img src="https://img.shields.io/badge/LeetCode-suraj719-orange?style=flat-square&logo=LeetCode" /></a>
-  <a href="mailto:suraj963719@gmail.com"><img src="https://img.shields.io/badge/Email-suraj963719@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.hackerrank.com/akashgarine123"><img src="https://img.shields.io/badge/HackerRank-akashgarine123-green?style=flat-square&logo=HackerRank" /></a>
+  <a href="[https://www.linkedin.com/in/surajthammi/](https://www.linkedin.com/in/akashgarine/)"><img src="https://img.shields.io/badge/LinkedIn-akashgarine-blue?style=flat-square&logo=LinkedIn" /></a>
+  <a href="https://leetcode.com/akashgarine/"><img src="https://img.shields.io/badge/LeetCode-akashgarine-orange?style=flat-square&logo=LeetCode" /></a>
+  <a href="mailto:akashgarine123@gmail.com"><img src="https://img.shields.io/badge/Email-akashgarine123@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
@@ -60,10 +61,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=suraj719&show_icons=true&count_private=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=suraj719&langs_count=10&show_icons=true&layout=compact&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=akashgarine&show_icons=true&count_private=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=akashgarine&langs_count=10&show_icons=true&layout=compact&theme=algolia" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj719&theme=algolia&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashgarine&theme=algolia&hide_border=false" />
 </p>
 
 ---
