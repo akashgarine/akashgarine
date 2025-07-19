@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-- 🏫 Junior at CVR College of Engineering, Hyderabad
+- 🏫 Final Year IT Student at CVR College of Engineering, Hyderabad
 - 👨‍💻 Passionate about Full-Stack Development
 - 💻 Currently practicing DSA to strengthen problem-solving skills
 - ⚡ Exploring Cloud Computing & DevOps
