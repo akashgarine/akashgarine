@@ -22,7 +22,7 @@
 - 🏫 Final Year IT Student at CVR College of Engineering, Hyderabad
 - 👨‍💻 Passionate about Full-Stack Development
 - 💻 Currently practicing DSA to strengthen problem-solving skills
-- ⚡ Exploring Cloud Computing & N8N Automation tool
+- ⚡ Exploring Cloud Computing & DevOps
 
 ---
 
