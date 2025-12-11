@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
+<h3 align="center">Undergraduate | AI Full-Stack Developer | Tech Geek</h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/akashgarine123"><img src="https://img.shields.io/badge/HackerRank-akashgarine123-green?style=flat-square&logo=HackerRank" /></a>
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 - 🏫 Final Year IT Student at CVR College of Engineering, Hyderabad
-- 👨‍💻 Passionate about Full-Stack Development
+- 👨‍💻 Passionate about AI Full-Stack Development
 - 💻 Currently practicing DSA to strengthen problem-solving skills
 - ⚡ Exploring Cloud Computing & DevOps
 
